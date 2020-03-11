@@ -1,0 +1,33 @@
+body {
+	background-color: black;
+	color: #B22234;
+	font-family: sans-serif;
+}
+
+main {
+	width: 70%;
+	margin: 10% auto;
+}
+
+img {
+	border-radius: 50%;
+}
+
+img:hover {
+	opacity: 0.8;
+}
+
+div {
+	display: inline-block;
+}
+
+h1 {
+	font-size: 3em;
+	margin-left: 30px;
+}
+
+h2 {
+	font-size: 2em;
+	margin-left: 280px;
+}
+
